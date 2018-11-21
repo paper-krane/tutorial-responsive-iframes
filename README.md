@@ -1,5 +1,5 @@
 <p>
-    <h1 align="center">Tutorial - Responsive &lt;iframes&gt;</h1>
+    <h1>Tutorial - Responsive &lt;iframes&gt;</h1>
 </p>
 <p>
     Tutorial source code to learn how you can create ratio based containers to hold responsive iframes.  
